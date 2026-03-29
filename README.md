@@ -1,3 +1,15 @@
+Step 1: Download Latest Java, JDK 26 to your windows
+<img width="1898" height="754" alt="image" src="https://github.com/user-attachments/assets/977cc427-a425-4b0d-becf-9e5316d01e60" />
+Direct link for windows - https://download.oracle.com/java/26/latest/jdk-26_windows-x64_bin.msi
+
+Step 2: Download Latest Maven
+<img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/b0d9848e-5b1d-42b2-993d-1d6fe6ee675c" />
+
+<img width="1919" height="773" alt="image" src="https://github.com/user-attachments/assets/6d49ed8e-6719-416d-a604-3c40a74304bc" />
+
+Direct link for windows - https://dlcdn.apache.org/maven/maven-3/3.9.14/binaries/apache-maven-3.9.14-bin.zip
+
+
 Pre-requisite:
 confirm that on your bash you have
 
